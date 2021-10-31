@@ -2,7 +2,7 @@
 
 
 
-Here's a basic dc-3 for Microsoft Flight Simulator.
+Here's a basic DC-3 for Microsoft Flight Simulator.
 
 Currently has NO animations, but all the gauges do work.
 
