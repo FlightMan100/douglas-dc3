@@ -4,7 +4,7 @@
 
 Here's a basic DC-3 for Microsoft Flight Simulator.
 
-Currently has NO animations, but all the gauges do work.
+The cockpit currently has NO animations, but all the gauges do work.
 
 It's an Import of the default DC-3 from FSX, and the cockpit has been converted to native GLTF format.
 
